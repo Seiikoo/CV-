@@ -3561,6 +3561,7 @@ input, select, textarea {
 
 	#banner {
 		background-image: url("https://imgur.com/ypAyaE4.jpg");
+		position: absolute ;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
