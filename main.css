@@ -3560,6 +3560,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
+		background-image: url("https://lemag.nikonclub.fr/wp-content/uploads/2017/07/08.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3665,7 +3666,6 @@ input, select, textarea {
 		}
 
 			#banner .more:after {
-				background-image: url("https://lemag.nikonclub.fr/wp-content/uploads/2017/07/08.jpg");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
