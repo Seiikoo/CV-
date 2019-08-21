@@ -3560,9 +3560,11 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-image: url("https://imgur.com/iS5crjv.jpg");
-		margin:0;
-  		padding:0;
+		height: 200px;
+  		background-image: url(https://imgur.com/iS5crjv.jpg);
+  		background-size: cover;
+ 		border: 2px solid;
+ 		color: #000; text-shadow: 1px 1px 0 #fff;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
