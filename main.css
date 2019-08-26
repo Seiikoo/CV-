@@ -24,7 +24,7 @@
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
   margin-right: 20px;
-  background: rgba(44, 44, 44, 0.2);
+  background: rgba(234, 243, 13, 0.2);
 }
 
 .bootstrap-switch .bootstrap-switch-container {
@@ -68,31 +68,31 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brown,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
   color: #fff;
-  background: #378C3F;
+  background: #EAF30D;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-blue {
   color: #fff;
-  background: #2CA8FF;
+  background: #EAF30D;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-green,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-green {
   color: #fff;
-  background: #18ce0f;
+  background: #EAF30D;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-orange,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-orange {
-  background: #FFB236;
+  background: #EAF30D;
   color: #fff;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-red,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-red {
   color: #fff;
-  background: #FF3636; 
+  background: #EAF30D; 
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-default,
@@ -103,7 +103,7 @@
 .bootstrap-switch .bootstrap-switch-label {
   text-align: center;
   z-index: 100;
-  color: #F6F507;
+  color: #EAF30D;
   background: #ffffff;
   width: 22px !important;
   height: 22px !important;
@@ -415,7 +415,7 @@
 /* Disabled state;
  */
 [disabled] .noUi-connect {
-  background: #B8B8B8;
+  background: #F6F507;
 }
 
 [disabled].noUi-target,
