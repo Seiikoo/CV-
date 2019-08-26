@@ -240,15 +240,15 @@
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-green ~ .bootstrap-switch-default {
-  background-color: #18ce0f;
+  background-color: #EAF30D;
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-brown ~ .bootstrap-switch-default {
-  background-color: #378C3F;
+  background-color: #EAF30D;
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-blue ~ .bootstrap-switch-default {
-  background-color: #2CA8FF;
+  background-color: #EAF30D;
 }
 
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-red,
@@ -256,7 +256,7 @@
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-blue,
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-orange,
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-green {
-  background-color: #F6F507;
+  background-color: #EAF30D;
 }
 
 .bootstrap-switch-off .bootstrap-switch-handle-on {
@@ -435,7 +435,7 @@
 
 .noUi-pips {
   position: absolute;
-  color: #999;
+  color: #EAF30D;
 }
 
 /* Values;
