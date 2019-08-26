@@ -1396,7 +1396,7 @@ fieldset[disabled]
 .navbar .navbar-nav > a.btn.btn-link:focus,
 .navbar .navbar-nav > a.btn.btn-link:active {
   background-color: transparent;
-  color: #979797;
+  color: #378C3F;
   text-decoration: none;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -1523,7 +1523,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-primary.btn-simple:hover, .btn-primary.btn-simple:focus, .btn-primary.btn-simple:active {
   background-color: transparent;
-  color: #40a249;
+  color: #378C3F;
   border-color: #40a249;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -3035,7 +3035,7 @@ body {
   height: 60px;
   width: 60px;
   font-weight: 400;
-  color: #9A9A9A;
+  color: #378C3F;
   margin-right: 19px;
   background-color: rgba(222, 222, 222, 0.3);
   border-radius: 30px;
@@ -3046,7 +3046,7 @@ body {
 }
 
 .nav-pills .nav-item .nav-link.active, .nav-pills .nav-item .nav-link.active:focus, .nav-pills .nav-item .nav-link.active:hover {
-  background-color: #9A9A9A;
+  background-color: #378C3F;
   color: #FFFFFF;
   -webkit-box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.3);
           box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.3);
