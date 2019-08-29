@@ -240,7 +240,7 @@
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-green ~ .bootstrap-switch-default {
-  background-color: #EAF30D;
+  background-color: #DFEC0D;
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-brown ~ .bootstrap-switch-default {
@@ -256,7 +256,7 @@
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-blue,
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-orange,
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-green {
-  background-color: #EAF30D;
+  background-color: #DFEC0D;
 }
 
 .bootstrap-switch-off .bootstrap-switch-handle-on {
